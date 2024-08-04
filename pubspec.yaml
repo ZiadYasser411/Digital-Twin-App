@@ -40,6 +40,11 @@ dependencies:
   noise_meter: ^5.0.2
   csv: ^6.0.0
   intl: ^0.19.0
+  mongo_dart: ^0.10.3
+  device_info_plus: ^9.1.2
+  firebase_core: ^2.24.2
+  cloud_firestore: ^4.14.0
+  firebase_auth: ^4.16.0
 
 dev_dependencies:
   flutter_test:

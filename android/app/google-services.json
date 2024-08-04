@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "660877488548",
+    "firebase_url": "https://noise-meter-firebase-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "noise-meter-firebase",
+    "storage_bucket": "noise-meter-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:660877488548:android:d65ae10c4b1709a9e49131",
+        "android_client_info": {
+          "package_name": "com.example.recorder"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAd2-A8_HoXt9EEIuFo-6_ToGibXA5dfFU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
