@@ -1,0 +1,1 @@
+ C:\\Users\\ziady\\Flutter\ testing\\recorder\\recorder\\.dart_tool\\flutter_build\\6b859d861c138015c0e566c82196cab3\\native_assets.yaml: 

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="firebase_database_url" translatable="false">https://noise-meter-firebase-default-rtdb.europe-west1.firebasedatabase.app</string>
+    <string name="gcm_defaultSenderId" translatable="false">660877488548</string>
+    <string name="google_api_key" translatable="false">AIzaSyAd2-A8_HoXt9EEIuFo-6_ToGibXA5dfFU</string>
+    <string name="google_app_id" translatable="false">1:660877488548:android:d65ae10c4b1709a9e49131</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAd2-A8_HoXt9EEIuFo-6_ToGibXA5dfFU</string>
+    <string name="google_storage_bucket" translatable="false">noise-meter-firebase.appspot.com</string>
+    <string name="project_id" translatable="false">noise-meter-firebase</string>
+</resources>
