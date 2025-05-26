@@ -19,17 +19,6 @@ Steps
 - Install dependencies: flutter pub get
 - Run the application (Android): flutter run
 
-📂 Project Structure
-Digital-Twin-App/
-├── android/            # Android-specific files
-├── ios/                # iOS-specific files
-├── lib/                # Main Dart source code
-│   └── main.dart       # Entry point of the application
-├── assets/             # Assets such as fonts and images
-├── test/               # Unit and widget tests
-├── pubspec.yaml        # Project metadata and dependencies
-└── README.md           # Project documentation
-
 📄 License
 This project is licensed under the MIT License.
 
