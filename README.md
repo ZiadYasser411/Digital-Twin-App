@@ -1,5 +1,5 @@
 📱 Digital Twin App
-Digital Twin App is a cross-platform Flutter application designed to record environmental noise levels in decibels (dB). It leverages the device's microphone to monitor and display real-time sound intensity, making it useful for noise monitoring, environmental studies, and personal awareness.
+- Digital Twin App is a cross-platform Flutter application designed to record environmental noise levels in decibels (dB). It leverages the device's microphone to monitor and display real-time sound intensity, making it useful for noise monitoring, environmental studies, and personal awareness.
 
 🚀 Features
 - Real-time noise level detection using the device's microphone
